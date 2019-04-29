@@ -1,0 +1,24 @@
+{
+  "name": "liri_node_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srobfillingim/liri-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srobfillingim/liri-node/issues"
+  },
+  "homepage": "https://github.com/srobfillingim/liri-node#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "spotify": "^0.3.0"
+  }
+}
